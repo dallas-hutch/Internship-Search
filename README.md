@@ -1,2 +1,3 @@
-# Internship-Search
-Personal data collection and analysis on summer internship application and interview processess
+# Internship Search Analysis and Shiny Dashboard
+View full R code and Shiny app development [here](internship_dashboard.R).
+Personal data collection and analysis on summer internship application and interview processess. I used 5 different resume formats or contents over the course of 134 summer internship applications. As I applied to each, I catalogged the position, relevant dates, response from employer, and notes about each steps of the interview process. This Shiny dashboard visualizes my entire application journey and allows me to compare which resumes got better "hit" rates from employers and response times. 
